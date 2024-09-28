@@ -84,9 +84,10 @@ The goal of Python 2 is to prepare for more advanced programming topics, includi
 ### Contribution
 This repository is a personal learning project. However, feel free to suggest improvements or submit issues. Constructive feedback is always welcome!
 
-### License
-This repository is licensed under the MIT License.
+## License
 
+This repository does not have a specific license since it consists of assignments for my Python course. However, it is shared publicly to demonstrate my work and skills to potential employers. Please respect this purpose and my academic work.
 With appreciation,  
+
 Skyla Miranda Reyes  
 — SMRCCC3302
